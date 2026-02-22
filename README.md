@@ -5,5 +5,4 @@ Everyday Tiga writes everything. It means not the programming languages, just wr
 Tiga also write on [medium](https://medium.com/@tiga)
 
 Find tiga on: <br>
-<a rel="me" href="https://c.im/@tiga">mastodon</a> <br>
-[codeberg](https://codeberg.org/tiga) <br>
+<a rel="me" href="https://c.im/@tiga">mastodon</a>
