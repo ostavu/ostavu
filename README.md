@@ -2,9 +2,9 @@
 
 I like writing about everything. Not just programming languages, I write about anything in my notes.
 
-I also write on [medium](https://medium.com/@tiga)
+I also write on <a rel="me" href="https://medium.com/@tiga" target="_blank">medium</a>
 
-Find tiga on: <br>
-<a rel="me" href="https://c.im/@tiga">mastodon</a>
-<a rel="me" href="https://youtube.com/@setigala">youtube</a>
-<a rel="me" href="https://bsky.app/profile/fck.xer.me">bluesky</a>
+Find me elsewhere: <br>
+<a rel="me" href="https://c.im/@tiga" target="_blank">mastodon</a> <br>
+<a rel="me" href="https://youtube.com/@setigala" target="_blank">youtube</a> <br>
+<a rel="me" href="https://bsky.app/profile/fck.xer.me" target="_blank">bluesky</a> <br>
